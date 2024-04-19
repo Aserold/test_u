@@ -168,5 +168,13 @@
                 "additional": []
             }
         ]
+    },
+    {
+        "id": 5,
+            "name_ru": "Пустая категория",
+            "name_en": null,
+            "name_ch": null,
+            "order_id": 50,
+            "foods": []
     }
 ]
